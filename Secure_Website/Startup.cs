@@ -17,6 +17,7 @@ namespace Secure_Website
 {
     public class Startup
     {
+        //This is the startup method
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
